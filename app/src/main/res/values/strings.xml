@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Auth_Android</string>
+    <string name="default_web_client_id">22452384370-nubfk74tup8fdq3ks730580mrlu0u3p7.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">1137011790646574</string>
+    <string name="fb_login_protocol_scheme">fb1137011790646574</string>
+    <string name="facebook_client_token">675330acee0413f92722cbba26cac0bb</string>
+
+
+</resources>
